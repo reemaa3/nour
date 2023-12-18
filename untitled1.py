@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-import matplotlib.pyplot as plt
-import pandas as pd
 
 
 data=pd.read_csv('economic_data.csv')
